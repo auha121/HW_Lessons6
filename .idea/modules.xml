@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW_Lessons6.iml" filepath="$PROJECT_DIR$/HW_Lessons6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-databind.iml" filepath="$PROJECT_DIR$/jackson-databind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp.iml" filepath="$PROJECT_DIR$/okhttp.iml" />
+    </modules>
+  </component>
+</project>
